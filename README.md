@@ -1,4 +1,7 @@
 # WinRAR Unlimited
+
+![WinRAR](https://i.imgur.com/M6m6Pd9.png)
+
 ```
 Unlimited license, owned WinRAR
 
